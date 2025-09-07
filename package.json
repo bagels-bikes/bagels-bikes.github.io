@@ -1,0 +1,25 @@
+{
+  "name": "bagels-bikes.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/bagels-bikes/bagels-bikes.github.io#readme",
+  "bugs": {
+    "url": "https://github.com/bagels-bikes/bagels-bikes.github.io/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bagels-bikes/bagels-bikes.github.io.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx @11ty/eleventy",
+    "start": "npx @11ty/eleventy --serve"
+  },
+  "dependencies": {
+    "eleventy": "^1.0.7"
+  }
+}
