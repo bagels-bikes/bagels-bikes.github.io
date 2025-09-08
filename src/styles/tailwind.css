@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+    --text-xl: 2.5rem;
+    --text-base: 1.2rem;
+    --text-sm: 1rem;
+    --text-tiny: 0.8rem;
+}
