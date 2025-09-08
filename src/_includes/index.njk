@@ -2,8 +2,8 @@
 layout: base.njk
 ---
 
-{% macro button(title, subtitle) %}
-<a href="#" class="w-full max-w-xl overflow-hidden rounded-lg bg-gray-200 m-4">
+{% macro button(title, subtitle, link) %}
+<a href="{{ link | safe}}" class="w-full max-w-xl overflow-hidden rounded-lg bg-gray-200 m-4">
     <div class="py-5 text-center">
         <p class="block text-xl font-bold text-black" tabindex="0" role="link"> {{ title }}</p>
         <span class="text-sm text-gray-800">{{ subtitle }}</span>
@@ -11,8 +11,6 @@ layout: base.njk
 </a>
 {% endmacro %}
 
-
-<div class="flex flex-col h-screen">
 
 <header class="bg-white mb-auto">
     <div class="container px-4 py-16 mx-auto">
@@ -23,8 +21,8 @@ layout: base.njk
 
             <div class="w-full lg:w-1/2 flex flex-col items-center px-2">
                     
-                    {{ button("BAGELS", "Algebraic Geometry")}}
-                    {{ button("BIKES", "Commutative Algebra")}}
+                    {{ button("BAGELS", "Algebraic Geometry", "/bagels")}}
+                    {{ button("BIKES", "Commutative Algebra", "/bikes")}}
                     
             </div>
         </div>
@@ -37,25 +35,3 @@ layout: base.njk
     </div>
 </div>
 
-            
-<footer class="bg-gray-400">
-    <div class="container flex flex-col items-center justify-between p-6 mx-auto space-y-4 sm:space-y-0 sm:flex-row">
-        <a href="https://www.math.utah.edu/">
-            <img class="w-auto h-10" src="{{'assets/img/uu.svg' | url}}" alt="University of Utah logo">
-        </a>
-
-        
-
-        <div class="flex -mx-2">
-            <a href="https://www.math.utah.edu/research/ag/" class="mx-2 text-gray-800 transition-colors duration-300 hover:text-blue-500" aria-label="Reddit">
-                Algebraic Geometry
-            </a>
-
-            <a href="https://www.math.utah.edu/research/ca/index.html" class="mx-2 text-gray-800 transition-colors duration-300 hover:text-blue-500" aria-label="Facebook">
-                Commutative Algebra
-            </a>
-        </div>
-    </div>
-</footer>
-
-</div>

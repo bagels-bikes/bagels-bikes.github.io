@@ -1,0 +1,80 @@
+---
+layout: /base2.njk
+---
+
+{% macro bubble(firstLetter, text) %}
+<div class="w-full max-w-xs overflow-hidden rounded-lg bg-gray-200 m-1">
+    <div class="px-4 text-left">
+        <span class="text-xl font-bold text-black mr-0">{{ firstLetter }}</span>
+        <span class="text-lg font-bold text-gray-800 ml-0"> {{ text }}</span>
+    </div>
+</div>
+{% endmacro %}
+
+<header class="bg-white mb-auto">
+<div class="container px-4 py-16 mx-auto">
+        <div class="items-center lg:flex">
+            <div class="flex items-center justify-center h-20 w-full my-6 lg:mt-0 lg:w-1/2 text-4xl font-bold text-black text-center">
+                Welcome to BIKES!
+            </div>
+            <div class="flex flex-col items-center w-full">
+                {{ bubble("B","ridges")}}
+                {{ bubble("I","nto")}}
+                {{ bubble("K","nowledge,")}}
+                {{ bubble("E",".g., the knowledge of commutative algebra")}}
+                {{ bubble("S","eminar")}}
+            </div>
+    </div>
+</div>
+</header>
+
+<header class="bg-gray-100">
+
+
+{% for semester in semesters %}
+
+<div class="relative overflow-x-auto">
+    <p class="font-bold text-center">{{semester.name}} </p>
+    <table class="w-full text-sm text-left rtl:text-right text-gray-500 md:overflow-x-scroll ">
+        <thead class="text-xs text-gray-700 uppercase bg-gray-50">
+            <tr>
+                <th scope="col" class="px-6 py-3">
+                    Date
+                </th>
+                <th scope="col" class="px-6 py-3">
+                    Speaker
+                </th>
+                <th scope="col" class="px-6 py-3">
+                    Title
+                </th>
+                <th scope="col" class="px-6 py-3 min-w-md">
+                    Abstract
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for talk in semester.talks %}
+                <tr class="bg-gray-50 border-b border-gray-200">
+                    <th scope="row" class="px-6 py-4 font-medium text-gray-900">
+                        {{ talk.date }}
+                    </th>
+                    <th scope="row" class="px-6 py-4 font-medium text-gray-900">
+                        {{ talk.name }}
+                    </th>
+                    <th scope="row" class="px-6 py-4 font-medium text-gray-900">
+                        {{ talk.title }}
+                    </th>
+                    <th scope="row" class="px-6 py-4 font-medium text-gray-900">
+                        {{ talk.abstract }}
+                    </th>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+{% endfor %}
+
+
+
+</header>

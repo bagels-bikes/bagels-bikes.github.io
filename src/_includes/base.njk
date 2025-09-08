@@ -11,6 +11,30 @@ title: bagels-bikes
     <title>{{ title }}</title>
   </head>
   <body class="text-base">
+  <div class="flex flex-col h-screen">
+
+  
     {{ content | safe }}
+  
+  <footer class="bg-gray-400">
+    <div class="container flex flex-col items-center justify-between p-6 mx-auto space-y-4 sm:space-y-0 sm:flex-row">
+        <a href="https://www.math.utah.edu/">
+            <img class="w-auto h-10" src="{{'/assets/img/uu.svg' | url}}" alt="University of Utah logo">
+        </a>
+
+        
+
+        <div class="flex -mx-2">
+            <a href="https://www.math.utah.edu/research/ag/" class="mx-2 text-gray-800 transition-colors duration-300 hover:text-blue-500" aria-label="Reddit">
+                Algebraic Geometry
+            </a>
+
+            <a href="https://www.math.utah.edu/research/ca/index.html" class="mx-2 text-gray-800 transition-colors duration-300 hover:text-blue-500" aria-label="Facebook">
+                Commutative Algebra
+            </a>
+        </div>
+    </div>
+</footer>
+  </div>
   </body>
 </html>

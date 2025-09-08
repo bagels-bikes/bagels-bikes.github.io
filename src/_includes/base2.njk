@@ -1,0 +1,22 @@
+---
+layout: base.njk
+---
+
+<nav class="relative bg-gray-200">
+    <div class="container px-6 py-4 mx-auto flex justify-between items-center">
+        <div class="flex items-center justify-between">
+            <a class="flex" href="{{ "/" }}">
+                <img class="w-auto h-9 sm:h-10" src={{"/assets/img/logo.png"}} alt="bagels-bikes logo">
+                <p class="p-3">home</p>
+            </a>
+        </div>
+
+        <div class="flex float-right">
+            <a class="my-2 text-gray-700 transition-colors duration-300 transform  hover:text-blue-500  mx-4 my-0" href={{ "/bagels" }}>bagels</a>
+            <a class="my-2 text-gray-700 transition-colors duration-300 transform  hover:text-blue-500  mx-4 my-0" href={{ "/bikes"}}>bikes</a>
+        </div>
+        
+    </div>
+</nav>
+
+{{content | safe}}
