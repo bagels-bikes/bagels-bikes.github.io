@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/styles.css">
     <title>bikes</title>
+    <link rel="icon" type="image/png" href="/assets/img/favicon.png">
   </head>
   <body class="text-base">
   <div class="flex flex-col h-screen">
@@ -28,6 +29,9 @@
         
     </div>
 </nav>
+
+
+
 
 
 
@@ -84,14 +88,27 @@
 </div>
 </header>
 
+<header class="bg-gray-100 p-10">
+    <p>Woohoo! BIKES! Yippee!</p>
+
+</header>
+
 <header class="bg-gray-100">
+<div class="container flex flex-wrap">
 
 
+<div class="outline outline-white">
+    <label class="block">
+    <input type="checkbox" class="peer hidden"  checked />
 
-
-<div class="relative overflow-x-auto">
-    <p class="font-bold text-center">Fall 2025 </p>
-    <table class="w-full text-sm text-left rtl:text-right text-gray-500 md:overflow-x-scroll ">
+    <span class="inline-block cursor-pointer bg-gray-200 px-4 py-2 text-black font-bold text-center transition hover:bg-gray-50 peer-checked:bg-gray-100">
+        <span class="peer-checked:hidden"> Fall 2025</span>
+        <span class="hidden peer-checked:inline"> Fall 2025</span>
+    </span>
+    <div class="w-full hidden peer-checked:block" >
+    <table 
+        class="w-full text-sm text-left rtl:text-right text-gray-500 overflow-x-auto"
+        >
         <thead class="text-xs text-gray-700 uppercase bg-gray-50">
             <tr>
                 <th scope="col" class="px-6 py-3">
@@ -112,12 +129,14 @@
             
         </tbody>
     </table>
+    </div>
+    </label>
 </div>
 
 
 
 
-
+</div>
 </header>
   
   <footer class="bg-gray-400">

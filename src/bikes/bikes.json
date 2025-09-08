@@ -1,10 +1,11 @@
 {
+    "currentSemester": {
+        "name": "Fall 2025",
+        "talks": [
+            
+        ]
+    },
     "semesters": [
-        {
-            "name": "Fall 2025",
-            "talks": [
-                
-            ]
-        }
+        
     ]
 }

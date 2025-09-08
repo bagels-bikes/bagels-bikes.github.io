@@ -11,32 +11,19 @@ layout: /base2.njk
 </div>
 {% endmacro %}
 
-<header class="bg-white mb-auto">
-<div class="container px-4 py-16 mx-auto">
-        <div class="items-center lg:flex">
-            <div class="flex items-center justify-center h-20 w-full my-6 lg:mt-0 lg:w-1/2 text-4xl font-bold text-black text-center">
-                Welcome to BAGELS!
-            </div>
-            <div class="flex flex-col items-center w-full">
-                {{ bubble("B","est")}}
-                {{ bubble("A","lgebraic")}}
-                {{ bubble("G","eometry")}}
-                {{ bubble("E","ating (&)")}}
-                {{ bubble("L","earning")}}
-                {{ bubble("S","eminar")}}
-            </div>
-    </div>
-</div>
-</header>
+{% macro createSemester(semester, hidden=true)%}
+<div class="outline outline-white">
+    <label class="block">
+    <input type="checkbox" class="peer hidden" {% if hidden %} {% else %} checked {% endif %}/>
 
-<header class="bg-gray-100">
-
-
-{% for semester in semesters %}
-
-<div class="relative overflow-x-auto">
-    <p class="font-bold text-center">{{semester.name}} </p>
-    <table class="w-full text-sm text-left rtl:text-right text-gray-500 md:overflow-x-scroll ">
+    <span class="inline-block cursor-pointer bg-gray-200 px-4 py-2 text-black font-bold text-center transition hover:bg-gray-50 peer-checked:bg-gray-100">
+        <span class="peer-checked:hidden"> {{semester.name}}</span>
+        <span class="hidden peer-checked:inline"> {{semester.name}}</span>
+    </span>
+    <div class="w-full hidden peer-checked:block" >
+    <table 
+        class="w-full text-sm text-left rtl:text-right text-gray-500 overflow-x-auto"
+        >
         <thead class="text-xs text-gray-700 uppercase bg-gray-50">
             <tr>
                 <th scope="col" class="px-6 py-3">
@@ -72,10 +59,41 @@ layout: /base2.njk
             {% endfor %}
         </tbody>
     </table>
+    </div>
+    </label>
 </div>
+{% endmacro %}
 
+<header class="bg-white mb-auto">
+<div class="container px-4 py-16 mx-auto">
+        <div class="items-center lg:flex">
+            <div class="flex items-center justify-center h-20 w-full my-6 lg:mt-0 lg:w-1/2 text-4xl font-bold text-black text-center">
+                Welcome to BAGELS!
+            </div>
+            <div class="flex flex-col items-center w-full">
+                {{ bubble("B","est")}}
+                {{ bubble("A","lgebraic")}}
+                {{ bubble("G","eometry")}}
+                {{ bubble("E","ating (&)")}}
+                {{ bubble("L","earning")}}
+                {{ bubble("S","eminar")}}
+            </div>
+    </div>
+</div>
+</header>
+
+<header class="bg-gray-100 p-10">
+    {{ content | safe }}
+</header>
+
+<header class="bg-gray-100">
+<div class="container flex flex-wrap">
+
+{{ createSemester(currentSemester, false) }}
+
+{% for semester in semesters %}
+{{ createSemester(semester) }}
 {% endfor %}
 
-
-
+</div>
 </header>
