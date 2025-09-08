@@ -11,13 +11,13 @@ git clone git@github.com:bagels-bikes/bagels-bikes.github.io.git
 ```
 in the terminal, in whichever folder you want to keep your personal copy of the website (which you will update on your machine, and eventually upload back to github so it appears online).
 
-1. __Updating__. Edit 
-- `bagels-bikes.github.io/src/bagels/bagels.json` OR
-- `bagels-bikes.github.io/src/bikes/bikes.json`,
+1. __Updating__. First run `git pull` to make sure you're up to date. Then, edit 
+- `src/bagels/bagels.json` OR
+- `src/bikes/bikes.json`,
 
 adding semesters and talks as you deem necessary. I'm following the convention that the newest semesters/talks appear at the top, and older ones down below. These are JSON files, you can look up how they are structured, or you can try to mimic the pattern that's already there with the existing talks.
 
-2. (Optional) __Test locally__. You need to install `node` over [here](https://nodejs.org/en/download/current), though be warned that installing on Windows is a little complicated nowadays. This isn't the recommended way, but it's definitely easier to follow the "Or get a prebuilt Node.js® for..." and getting the Windows installer (the .msi file). Then, once you have node installed, run `npm install` inside the project folder, and then `npm run start`. You should then be able to go to [http://localhost:8080/](http://localhost:8080/) and test out your changes.
+2. (Optional) __Test locally__. You need to install `node` (with npm) over [here](https://nodejs.org/en/download/current), though be warned that installing on Windows is a little complicated nowadays. This isn't the recommended way, but it's definitely easier to follow the "Or get a prebuilt Node.js® for..." and getting the Windows installer (the .msi file). Then, once you have node installed, run `npm install` inside the project folder, and then `npm run start`. You should then be able to go to [http://localhost:8080/](http://localhost:8080/) and test out your changes.
 
 3. __Push your changes__ to the internet. Run
 - `git add .` to make git track all the files that you've changed.
