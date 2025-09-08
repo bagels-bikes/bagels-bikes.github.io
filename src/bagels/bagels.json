@@ -4,16 +4,16 @@
             "name": "Fall 2025",
             "talks": [
                 {
-                    "name": "Brian Nugent",
-                    "title": "The Picard Scheme",
-                    "abstract": "The set of all line bundles on a variety form a group known as the Picard group. Like with many objects in algebraic geometry, the Picard group can be given a scheme structure in which it parametrizes families of line bundles on X, this is called the Picard scheme. In this talk, we will discuss the basic properties of the Picard scheme like its dimension, smoothness, connected components and maybe even show it has a connection to the name of this seminar.",
-                    "date": "08/27"
-                },
-                {
                     "name": "Daniel Apsley",
                     "title": "The Construction of the Weighted CM Line Bundle",
                     "abstract": "In this talk, we will outline the construction of the weighted CM Line bundle. The CM (Chow-Mumford) line bundle is a naturally defined (Q-)line bundle on the base of families of Fano varieties. This then defines an ample line bundle on the moduli space of K-polystable varieties, making this moduli space a projective variety. The weighted CM line bundle is an extension of this to a \"weighted\" version of K-stability, where the weight  is simply a positive continuous function on a certain polytope. To make this construction precise, we will use the Stone-Weierstrass theorem.",
                     "date": "09/07"
+                },
+                {
+                    "name": "Brian Nugent",
+                    "title": "The Picard Scheme",
+                    "abstract": "The set of all line bundles on a variety form a group known as the Picard group. Like with many objects in algebraic geometry, the Picard group can be given a scheme structure in which it parametrizes families of line bundles on X, this is called the Picard scheme. In this talk, we will discuss the basic properties of the Picard scheme like its dimension, smoothness, connected components and maybe even show it has a connection to the name of this seminar.",
+                    "date": "08/27"
                 }
             ]
         }
