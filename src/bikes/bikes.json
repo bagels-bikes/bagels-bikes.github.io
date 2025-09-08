@@ -2,10 +2,249 @@
     "currentSemester": {
         "name": "Fall 2025",
         "talks": [
-            
+            {
+                "name": "Ethan Morgan",
+                "title": "TBD",
+                "abstract": "TBD",
+                "date": "12/01"
+            },
+            {
+                "name": "Antonia Kekkou",
+                "title": "TBD",
+                "abstract": "TBD",
+                "date": "11/24"
+            },
+            {
+                "name": "Nawaj KC",
+                "title": "TBD",
+                "abstract": "TBD",
+                "date": "11/17"
+            },
+            {
+                "name": "Jorge Gaspar Lara",
+                "title": "TBD",
+                "abstract": "TBD",
+                "date": "11/03"
+            },
+            {
+                "name": "Gari Chua",
+                "title": "TBD",
+                "abstract": "TBD",
+                "date": "10/27"
+            },
+            {
+                "name": "Suchitra Pande",
+                "title": "TBD",
+                "abstract": "TBD",
+                "date": "10/20"
+            },
+            {
+                "name": "Rahul Ajit",
+                "title": "TBD",
+                "abstract": "TBD",
+                "date": "10/13"
+            },
+            {
+                "name": "Kashif Khan",
+                "title": "TBD",
+                "abstract": "TBD",
+                "date": "09/29"
+            },
+            {
+                "name": "Dimas Sanjoyo",
+                "title": "TBD",
+                "abstract": "TBD",
+                "date": "09/22"
+            },
+            {
+                "name": "Joseph Sullivan",
+                "title": "TBD",
+                "abstract": "TBD",
+                "date": "09/15"
+            },
+            {
+                "name": "Kolton O'Neal",
+                "title": "The Tate Resolution Over a Complete Intersection Ring",
+                "abstract": "Given a Noetherian commutative ring R and an ideal I in R, the Koszul complex is a differential graded (DG) R-algebra. If the generators for I form a regular sequence, the Koszul complex is also a free resolution for R/I. But if they don't form a regular sequence, Tate provided a general construction in 1957 that always produces a DG R-algebra that is also a free resolution for R/I. In this talk, we define free resolutions, the Koszul complex, and DG algebras. We then describe Tate's construction. Finally, we state a nice result from Tate's paper about certain rings for which this construction terminates after only 2 steps. In general, Tate's construction may take infinitely many steps. If time allows, I'll discuss an outline of a proof of this theorem in a special case.",
+                "date": "09/08"
+            },
+            {
+                "name": "Aryaman Maithani",
+                "title": "Splittings in Classical Invariant Theory",
+                "abstract": "In this talk, we shall talk about the classical group actions of the classical groups — the general linear, special linear, orthogonal, and symplectic groups. Each of these is a subgroup G of GL_t and acts naturally on a ring like R = K[Y_{t x n}] via matrix multiplication, and the ring of invariants R^G is what shall be looking at. In characteristic zero, the inclusion R^G  ↪ R possesses an appropriate splitting, and we shall describe methods of computing this over an arbitrary field of characteristic zero. Lastly, we will contrast this with positive characteristic and note a curious phenomenon that every characteristic zero splitting must have every prime appearing in the denominator. ",
+                "date": "08/25"
+            }
         ]
     },
     "semesters": [
-        
+        {
+            "name": "Fall 2024",
+            "talks": [
+                {
+                    "name": "Ethan Morgan",
+                    "title": "A Few Cute Proofs with Spectral Sequences",
+                    "abstract": "",
+                    "date": "11/06"
+                },
+                {
+                    "name": "Anne Fayolle",
+                    "title": "F this and F that!",
+                    "abstract": "",
+                    "date": "09/04"
+                },
+                {
+                    "name": "Aryaman Maithani",
+                    "title": "Very bad no-good evil rings",
+                    "abstract": "",
+                    "date": "08/26"
+                }
+            ]
+        },
+        {
+            "name": "Spring 2024",
+            "talks": [
+                {
+                    "name": "Ethan Morgan",
+                    "title": "Introduction to Determinantal Rings",
+                    "abstract": "",
+                    "date": "04/12"
+                },
+                {
+                    "name": "Peter McDonald",
+                    "title": "The McKay Correspondence: History and Generalizations",
+                    "abstract": "",
+                    "date": "04/05"
+                },
+                {
+                    "name": "Debbie Wooton",
+                    "title": "Minimal free resolutions of edge ideals of graphs",
+                    "abstract": "",
+                    "date": "03/29"
+                },
+                {
+                    "name": "Brendan Murphy",
+                    "title": "Seeing Spec R inside of the derived category",
+                    "abstract": "",
+                    "date": "03/22"
+                },
+                {
+                    "name": "Rahul Ajit",
+                    "title": "Jet Bundles or Bundles of Principal Parts",
+                    "abstract": "",
+                    "date": "03/01"
+                },
+                {
+                    "name": "Joseph Sullivan",
+                    "title": "Introduction to Gröbner bases",
+                    "abstract": "",
+                    "date": "02/23"
+                },
+                {
+                    "name": "Aryaman Maithani",
+                    "title": "Linear quotients of connected ideals of graphs",
+                    "abstract": "",
+                    "date": "02/16"
+                }
+            ]
+        },
+        {
+            "name": "Fall 2023",
+            "talks": [
+                {
+                    "name": "Jorge Gaspar Lara",
+                    "title": "Fusion invariant representations",
+                    "abstract": "",
+                    "date": "12/01"
+                },
+                {
+                    "name": "Anne Fayolle",
+                    "title": "On tame ramification and compatible ideals",
+                    "abstract": "",
+                    "date": "10/27"
+                },
+                {
+                    "name": "Rahul Ajit",
+                    "title": "Hilbert-Kunz multiplicity, F-signature & a conjecture of Monsky",
+                    "abstract": "",
+                    "date": "10/20"
+                },
+                {
+                    "name": "Jenna Judd",
+                    "title": "Galois descent, cohomology, and conjugacy",
+                    "abstract": "",
+                    "date": "10/06"
+                },
+                {
+                    "name": "Aryaman Maithani",
+                    "title": "Invariant Theory of Commutative Rings",
+                    "abstract": "",
+                    "date": "09/29"
+                },
+                {
+                    "name": "Antonia Kekkou",
+                    "title": "Introduction to Local Duality",
+                    "abstract": "",
+                    "date": "09/22"
+                },
+                {
+                    "name": "Peter McDonald",
+                    "title": "Singularities in characteristic zero: multiplier ideals, trace ideals, and closure operations",
+                    "abstract": "",
+                    "date": "09/15"
+                },
+                {
+                    "name": "Brendan Murphy",
+                    "title": "The Lean Theorem Prover and Formal Mathematics",
+                    "abstract": "",
+                    "date": "09/08"
+                },
+                {
+                    "name": "Trung Chau",
+                    "title": "Morse resolutions",
+                    "abstract": "",
+                    "date": "09/01"
+                }
+            ]
+        },
+        {
+            "name": "Spring 2023",
+            "talks": [
+                {
+                    "name": "Anne Fayolle",
+                    "title": "An introduction to compatible ideals",
+                    "date": "04/07"
+                },
+                {
+                    "name": "Trung Chau",
+                    "title": "Principal radical systems",
+                    "date": "03/31"
+                },
+                {
+                    "name": "Trevor",
+                    "title": "F-Pure Threshold and Semi-quasi Homogeneous Singularities",
+                    "date": "03/17"
+                },
+                {
+                    "name": "Brendan Murphy",
+                    "title": "The Lean Theorem Prover and Formal Mathematics",
+                    "date": "02/24"
+                },
+                {
+                    "name": "Peter McDonald",
+                    "title": "The Test Ideal and The Multiplier Ideal Are Morally Equivalent",
+                    "date": "02/17"
+                },
+                {
+                    "name": "Seungsu Lee",
+                    "title": "F-Splittings and Strongly F-Regular Rings",
+                    "date": "02/10"
+                },
+                {
+                    "name": "Kriti",
+                    "title": "Minkowski Inequality for Multiplicity of Ideals",
+                    "date": "01/20"
+                }
+            ]
+        }
     ]
 }
