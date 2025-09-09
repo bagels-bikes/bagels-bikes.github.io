@@ -245,6 +245,201 @@
                     "date": "01/20"
                 }
             ]
-        }
+        },
+        {
+            "name": "Fall 2022",
+            "talks": [
+                {
+                    "name": "Daniel McCormick",
+                    "title": "The Improveder New Intersection Theorem",
+                    "date": "10/20"
+                },
+                {
+                    "name": "Brendan Murphy",
+                    "title": "Intersection Theorems in Local Algebra (part 1)",
+                    "date": "09/29"
+                },
+                {
+                    "name": "Trung Chau",
+                    "title": "Big Cohen-Macaulay Modules and Homological Conjectures (Theorems)",
+                    "date": "09/22"
+                },
+                {
+                    "name": "Antonia Kekkou",
+                    "title": "Examples and results on bounds on Loewy length via derived categories",
+                    "date": "09/25"
+                },
+                {
+                    "name": "Josh Pollitz",
+                    "title": "Bounds on Loewy length via derived categories",
+                    "date": "09/08"
+                }                
+            ]
+        },
+        {
+            "name": "Spring 2022",
+            "talks": [
+                {
+                    "name": "Daniel McCormick",
+                    "title": "Simplicial Rings and André-Quillen (Co)homology",
+                    "date": "04/07"
+                },
+                {
+                    "name": "Antonia Kekkou",
+                    "title": "The Dold-Kan Correspondence",
+                    "date": "03/31"
+                },
+                {
+                    "name": "Peter McDonald",
+                    "title": "An introduction to simplicial objects",
+                    "date": "03/24"
+                },
+                {
+                    "name": "Trung Chau",
+                    "title": "Morse resolutions",
+                    "date": "03/17"
+                },
+                {
+                    "name": "Trung Chau",
+                    "title": "Cellular resolutions and hull resolutions",
+                    "date": "03/03"
+                },
+                {
+                    "name": "Vaibhav Pandey",
+                    "title": "Local cohomology modules of a polynomial ring over the integers have finitely many associated primes",
+                    "date": "02/24"
+                },
+                {
+                    "name": "Seungsu Lee",
+                    "title": "Discreteness and rationality of F-jumping numbers of hypersurfaces on regular rings",
+                    "date": "02/17"
+                },
+                {
+                    "name": "Eamon Quinlan-Gallego",
+                    "title": "Unit F-modules and local cohomology",
+                    "date": "02/10"
+                },
+                {
+                    "name": "Peter McDonald",
+                    "title": "Splinters and derived functors",
+                    "date": "02/03"
+                },
+                {
+                    "name": "Hanlin Cai",
+                    "title": "Splinters and derived splinters",
+                    "date": "01/27"
+                }                               
+            ]
+        },  
+        {
+            "name": "Fall 2021",
+            "talks": [
+                {
+                    "name": "Trung Chau",
+                    "title": "Scarf complex and Lyubeznik resolution",
+                    "date": "12/09"
+                },
+                {
+                    "name": "Sandra Rodriquez Villalobos",
+                    "title": "Simplicial resolution",
+                    "date": "12/02"
+                },     
+                {
+                    "name": "Annie + Daniel",
+                    "title": "Taylor resolution",
+                    "date": "11/18"
+                },     
+                {
+                    "name": "Peter McDonald",
+                    "title": "D(R) and Ho(Mod-HR) are the same!",
+                    "date": "11/04"
+                },    
+                {
+                    "name": "Hanlin Cai",
+                    "title": "Stable homotopy category",
+                    "date": "10/28"
+                },      
+                {
+                    "name": "Daniel McCormick",
+                    "title": "Singularity category over a hypersurface ring",
+                    "date": "10/21"
+                },        
+                {
+                    "name": "Jack",
+                    "title": "Derived categories and the singularity category",
+                    "date": "10/07"
+                },  
+                {
+                    "name": "Trung Chau",
+                    "title": "A quick look at the singularity category",
+                    "date": "09/30"
+                },
+                {
+                    "name": "Devlin Mallory",
+                    "title": "Differential operators in characteristic p",
+                    "date": "09/23"
+                },
+                {
+                    "name": "Vaibhav Pandey",
+                    "title": "Introduction to differential operators",
+                    "date": "09/16"
+                },
+                {
+                    "name": "Seungsu Lee",
+                    "title": "F-purity and F-regularity",
+                    "date": "09/09"
+                }
+            ]
+        },
+        {
+            "name": "Spring 2021",
+            "talks": [
+                {
+                    "name": "Vaibhav Pandey",
+                    "title": "How bad are pinched Veronese rings?",
+                    "date": "04/09"
+                },
+                {
+                    "name": "Isaac Martin",
+                    "title": "F-signature in affine semigroup rings",
+                    "date": "04/02"
+                },
+                {
+                    "name": "Josh Pollitz",
+                    "title": "Golod rings and DGAs",
+                    "date": "03/26"
+                },
+                {
+                    "name": "Daniel McCormick",
+                    "title": "Golod rings and DGAs",
+                    "date": "03/19"
+                },
+                {
+                    "name": "Ben",
+                    "title": "Golod rings and DGAs",
+                    "date": "03/12"
+                },
+                {
+                    "name": "Hanlin Cai",
+                    "title": "Complete and torsion modules",
+                    "date": "02/26"
+                },
+                {
+                    "name": "Peter McDonald",
+                    "title": "Complete and torsion modules",
+                    "date": "02/19"
+                },
+                {
+                    "name": "Sam",
+                    "title": "Peskine-Szpiro",
+                    "date": "02/12"
+                },
+                {
+                    "name": "Trung Chau",
+                    "title": "Peskine-Szpiro",
+                    "date": "02/05"
+                }
+            ]
+        }     
     ]
 }
