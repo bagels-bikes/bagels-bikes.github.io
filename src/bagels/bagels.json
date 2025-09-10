@@ -64,8 +64,8 @@
                 },
                 {
                     "name": "Zach Mere",
-                    "title": "TBD",
-                    "abstract": "TBD",
+                    "title": "The change-of-variables formula in motivic integration",
+                    "abstract": "Kontsevich introduced motivic integration to prove that birational complex Calabi-Yau manifolds have the same Hodge numbers. The proof uses a change-of-variables formula which assumes the varieties involved are smooth. In this talk, we'll discuss generalizations of this formula to the case where singularities are allowed. Then we'll deduce a result about Calabi-Yau varieties over an arbitrary field.",
                     "date": "09/10"
                 },
                 {
