@@ -58,8 +58,8 @@
             },
             {
                 "name": "Joseph Sullivan",
-                "title": "TBD",
-                "abstract": "TBD",
+                "title": "Koszul Rings",
+                "abstract": "Last week Kolton defined for us (in particular) the Koszul complex for a regular sequence. We're going to reinterpret a Koszul complex for the graded polynomial ring/symmetric algebra as a duality with the exterior algebra. More generally, we will define this Koszul complex for \"quadratic algebras\", and when it happens to be exact, we will get Koszul duality, which relates to certain Ext algebras.",
                 "date": "09/15"
             },
             {
