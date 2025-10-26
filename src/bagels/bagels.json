@@ -34,8 +34,8 @@
                 },
                 {
                     "name": "Ethan Morgan",
-                    "title": "TBD",
-                    "abstract": "TBD",
+                    "title": "A Tale of Two Hermanns—or, Counting Is Hard: An Introduction to Schubert Calculus",
+                    "abstract": "In this talk, I'll provide some of the motivation and setup of Schubert calculus. I will go through a rough construction of the cohomology ring of the Grassmannian, discussing its structure and how to do things like counting points in the intersection of varieties from it. The main focus will be how to evaluate products in the cohomology ring, and how this can be applied to such questions.",
                     "date": "10/22"
                 },
                 {
