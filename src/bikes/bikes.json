@@ -34,15 +34,9 @@
             },
             {
                 "name": "Suchitra Pande",
-                "title": "TBD",
-                "abstract": "TBD",
+                "title": "Cohen-Macaulay rings and splinters via local cohomology",
+                "abstract": "This is a first in a series of three talks in which we will understand a fundamental theorem about the structure of excellent local domains in prime characteristics due to Hochster and Huneke. This theorem states that the absolute integral closure of such a ring is a Big Cohen-Macaulay algebra. In the first talk, we review some preliminary material about local cohomology and Cohen-Macaulay rings and understand the precise statement of the main theorem. As quick applications, we will see how this theorem can be used to prove some well-known results - for example the Hochster-Roberts theorem and the Cohen-Macaulayness of splinters. Time permitting, we will also discuss how the theorem of Hochster and Huneke can be used to prove that regular rings are splinters in positive characteristics.",
                 "date": "10/20"
-            },
-            {
-                "name": "Rahul Ajit",
-                "title": "TBD",
-                "abstract": "TBD",
-                "date": "10/13"
             },
             {
                 "name": "Desiree Laurel Martin",
