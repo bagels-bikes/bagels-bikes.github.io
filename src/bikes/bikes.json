@@ -22,8 +22,8 @@
             },
             {
                 "name": "Gari Chua",
-                "title": "TBD",
-                "abstract": "TBD",
+                "title": "Proof of the Central Result of Huneke-Lyubeznik",
+                "abstract": "In this talk, we present the proof of the central result of Huneke-Lyubeznik, which states that if R is the homomorphic image of a Gorenstein local ring, with absolute integral closure R^+, then the natural induced map on local cohomology is the zero map for all degrees smaller than dim R. This is an extension of a result of Hochster-Huneke that proves the result for regular rings. This result has some consequences that help us understand the absolute integral closure better. Of note is the implication that R^+ is a big Cohen-Macaulay algebra for R. If time permits, we can also reformulate this in terms of dualizing complexes.",
                 "date": "10/27"
             },
             {
