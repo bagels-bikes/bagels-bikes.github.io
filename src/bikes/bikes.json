@@ -3,7 +3,7 @@
         "name": "Fall 2025",
         "talks": [
             {
-                "name": "Ethan Morgan",
+                "name": "Open! Sign up!",
                 "title": "TBD",
                 "abstract": "TBD",
                 "date": "12/01"
@@ -21,16 +21,22 @@
                 "date": "11/17"
             },
             {
+                "name": "Ethan Morgan",
+                "title": "TBD",
+                "abstract": "TBD",
+                "date": "11/10"
+            },
+            {
                 "name": "Gari Chua",
                 "title": "Proof of the Central Result of Huneke-Lyubeznik",
                 "abstract": "In this talk, we present the proof of the central result of Huneke-Lyubeznik, which states that if R is the homomorphic image of a Gorenstein local ring, with absolute integral closure R^+, then the natural induced map on local cohomology is the zero map for all degrees smaller than dim R. This is an extension of a result of Hochster-Huneke that proves the result for regular rings. This result has some consequences that help us understand the absolute integral closure better. Of note is the implication that R^+ is a big Cohen-Macaulay algebra for R. If time permits, we can also reformulate this in terms of dualizing complexes.",
-                "date": "10/27"
+                "date": "11/03"
             },
             {
                 "name": "Jorge Gaspar Lara",
                 "title": "Local Cohomology and Equational Lemma",
                 "abstract": "In the second entry on our series of talks we will briefly introduce local cohomology. I will do some basic computations of it as well as define the Čech complex. After this, we will turn our attention to the Equational Lemma, which will be a key ingredient for the proof of our Main Theorem on the next talk!",
-                "date": "11/03"
+                "date": "10/27"
             },
             {
                 "name": "Suchitra Pande",
