@@ -3,7 +3,7 @@
         "name": "Fall 2025",
         "talks": [
             {
-                "name": "Open! Sign up!",
+                "name": "Nawaj KC",
                 "title": "TBD",
                 "abstract": "TBD",
                 "date": "12/01"
@@ -15,16 +15,10 @@
                 "date": "11/24"
             },
             {
-                "name": "Nawaj KC",
-                "title": "TBD",
-                "abstract": "TBD",
-                "date": "11/17"
-            },
-            {
                 "name": "Ethan Morgan",
-                "title": "TBD",
-                "abstract": "TBD",
-                "date": "11/10"
+                "title": "Associated Primes of Local Cohomology Modules",
+                "abstract": "In this talk, I'll provide some background information relevant to Antonia and Nawaj's upcoming talks. We will do a quick refresher course on what local cohomology is, then talk about associated primes of local cohomology modules and some conjectures/results related to cases where there are finitely many. We'll then take a look at an example to show that local cohomology modules can have infinitely many associated primes.",
+                "date": "11/17"
             },
             {
                 "name": "Gari Chua",
