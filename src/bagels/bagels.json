@@ -3,33 +3,33 @@
             "name": "Fall 2025",
             "talks": [
                 {
-                    "name": "Open! Sign up!",
+                    "name": "Kashif Khan",
                     "title": "TBD",
                     "abstract": "TBD",
                     "date": "12/03"
                 },
                 {
-                    "name": "Kashif Khan",
-                    "title": "TBD",
-                    "abstract": "TBD",
+                    "name": "Shikha Bhutani",
+                    "title": "A Survey of the Base Point Free Theorem",
+                    "abstract": "One of the fundamental interests in algebraic geometry is to understand the maps from an algebraic variety to projective space. These maps are given by line bundles, but a line bundle may have \"base points\" — points where all sections vanish, preventing the map from being a morphism. The Base Point Free Theorem provides a powerful criterion for when a line bundle is free of base points. We shall survey the theorem without giving any proofs.",
                     "date": "11/19"
                 },
                 {
                     "name": "Dimas Sanjoyo",
-                    "title": "TBD",
-                    "abstract": "TBD",
+                    "title": "Characteristic Varieties",
+                    "abstract": "",
                     "date": "11/12"
                 },
                 {
                     "name": "Will Legg",
-                    "title": "TBD",
-                    "abstract": "TBD",
+                    "title": "Fitting Ideals",
+                    "abstract": "Working in the generality of mixed characteristic, we'll get to see how the singular locus of an R-variety compares and contrasts to the case over a field (and how flatness plays a crucial role). I'll include examples, and time permitting, I'll conclude by connecting this to lifting criteria of jets in mixed characteristic. The talk should be pretty elementary.",
                     "date": "11/05"
                 },
                 {
                     "name": "Jonathon Fleck",
-                    "title": "TBD",
-                    "abstract": "TBD",
+                    "title": "Bridgeland Stability Conditions",
+                    "abstract": "To study a (smooth, projective) variety, one may be interested in studying spaces of functions on that variety, or its moduli space of coherent sheaves, by classifying different regions of these spaces.  For example, on P1, we can use the fact that every vector bundle can be decomposed as a unique direct sum of line bundles to identify regions.  Although such a decomposition fails for other smooth projective curves, every coherent sheaf still admits a unique filtration with similar properties that allow us to decompose its moduli spaces.  Furthermore, this framework extends to higher dimensional base varieties via Bridgeland stability conditions.  In this talk I will introduce these stability conditions, how they relate to this P1 decomposition, and some applications.",
                     "date": "10/29"
                 },
                 {
