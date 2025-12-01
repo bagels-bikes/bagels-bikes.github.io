@@ -4,8 +4,8 @@
         "talks": [
             {
                 "name": "Nawaj KC",
-                "title": "TBD",
-                "abstract": "TBD",
+                "title": "Local cohomology over polynomial Z-algebras",
+                "abstract": "In this talk, I will sketch the proof of the following theorem: If R is a polynomial ring over the integers Z, then the local cohomology modules of R supported at any ideal has finitely many associated primes. The proof is quite amazing, so please tune in.",
                 "date": "12/01"
             },
             {
