@@ -1,11 +1,95 @@
 {
     "currentSemester": {
+        "name": "Spring 2026",
+        "talks": [
+            {
+                "name": "TBD",
+                "title": "Brauer Group",
+                "abstract": "TBD",
+                "date": "04/15"
+            },
+            {
+                "name": "TBD",
+                "title": "Brauer Group",
+                "abstract": "TBD",
+                "date": "04/08"
+            },
+            {
+                "name": "TBD",
+                "title": "Brauer Group",
+                "abstract": "TBD",
+                "date": "04/01"
+            },
+            {
+                "name": "TBD",
+                "title": "Brauer Group",
+                "abstract": "TBD",
+                "date": "03/25"
+            },
+            {
+                "name": "Rahul Ajit",
+                "title": "TBD",
+                "abstract": "TBD",
+                "date": "03/18"
+            },
+            {
+                "name": "Liebo Pan",
+                "title": "TBD",
+                "abstract": "TBD",
+                "date": "03/04"
+            },
+            {
+                "name": "Zach Mere",
+                "title": "TBD",
+                "abstract": "TBD",
+                "date": "02/25"
+            },
+            {
+                "name": "Ethan Morgan",
+                "title": "TBD",
+                "abstract": "TBD",
+                "date": "02/18"
+            },
+            {
+                "name": "Gari Chua",
+                "title": "TBD",
+                "abstract": "TBD",
+                "date": "02/11"
+            },
+            {
+                "name": "TBD",
+                "title": "TBD",
+                "abstract": "TBD",
+                "date": "02/04"
+            },
+            {
+                "name": "TBD",
+                "title": "GIT",
+                "abstract": "TBD",
+                "date": "01/28"
+            },
+            {
+                "name": "TBD",
+                "title": "GIT",
+                "abstract": "TBD",
+                "date": "01/21"
+            },
+            {
+                "name": "TBD",
+                "title": "GIT",
+                "abstract": "TBD",
+                "date": "01/14"
+            }
+        ]
+    },
+    "semesters": [
+        {
             "name": "Fall 2025",
             "talks": [
                 {
                     "name": "Kashif Khan",
-                    "title": "TBD",
-                    "abstract": "TBD",
+                    "title": "An introduction to local/sheaf cohomology",
+                    "abstract": "In this talk, we recall the fundamentals of how to compute sheaf cohomology and local cohomology using the two different notions of the Čech complex. We then show that for a noetherian commutative ring R and a module M over R, the local cohomology of M at an ideal is related to the sheaf cohomology of the associated sheaf of M. Lastly, we define sheaf local cohomology with support on a closed set, and if time permits, discuss a version for projective varieties and graded local cohomology.",
                     "date": "12/03"
                 },
                 {
@@ -82,7 +166,6 @@
                 }
             ]
         },
-    "semesters": [
         {
             "name": "Spring 2025",
             "talks": [
