@@ -1,88 +1,171 @@
 {
     "currentSemester": {
-        "name": "Fall 2025",
+        "name": "Spring 2026",
         "talks": [
             {
-                "name": "Nawaj KC",
-                "title": "Local cohomology over polynomial Z-algebras",
-                "abstract": "In this talk, I will sketch the proof of the following theorem: If R is a polynomial ring over the integers Z, then the local cohomology modules of R supported at any ideal has finitely many associated primes. The proof is quite amazing, so please tune in.",
-                "date": "12/01"
+                "name": "Group Project 2",
+                "title": "TBD",
+                "abstract": "TBD",
+                "date": "04/16"
             },
             {
-                "name": "Antonia Kekkou",
-                "title": "Associated Primes of Local Cohomology Modules over a Polynomial Ring with Complex Coefficients",
-                "abstract": "In the second talk of this series, we’ll show that the local cohomology modules of a polynomial ring over the complex numbers, for any ideal, have finitely many associated prime ideals. To show this, we’ll introduce the theory of D-modules.",
-                "date": "11/24"
+                "name": "Group Project 2",
+                "title": "TBD",
+                "abstract": "TBD",
+                "date": "04/09"
             },
             {
-                "name": "Ethan Morgan",
-                "title": "Associated Primes of Local Cohomology Modules",
-                "abstract": "In this talk, I'll provide some background information relevant to Antonia and Nawaj's upcoming talks. We will do a quick refresher course on what local cohomology is, then talk about associated primes of local cohomology modules and some conjectures/results related to cases where there are finitely many. We'll then take a look at an example to show that local cohomology modules can have infinitely many associated primes.",
-                "date": "11/17"
-            },
-            {
-                "name": "Gari Chua",
-                "title": "Proof of the Central Result of Huneke-Lyubeznik",
-                "abstract": "In this talk, we present the proof of the central result of Huneke-Lyubeznik, which states that if R is the homomorphic image of a Gorenstein local ring, with absolute integral closure R^+, then the natural induced map on local cohomology is the zero map for all degrees smaller than dim R. This is an extension of a result of Hochster-Huneke that proves the result for regular rings. This result has some consequences that help us understand the absolute integral closure better. Of note is the implication that R^+ is a big Cohen-Macaulay algebra for R. If time permits, we can also reformulate this in terms of dualizing complexes.",
-                "date": "11/03"
-            },
-            {
-                "name": "Jorge Gaspar Lara",
-                "title": "Local Cohomology and Equational Lemma",
-                "abstract": "In the second entry on our series of talks we will briefly introduce local cohomology. I will do some basic computations of it as well as define the Čech complex. After this, we will turn our attention to the Equational Lemma, which will be a key ingredient for the proof of our Main Theorem on the next talk!",
-                "date": "10/27"
-            },
-            {
-                "name": "Suchitra Pande",
-                "title": "Cohen-Macaulay rings and splinters via local cohomology",
-                "abstract": "This is a first in a series of three talks in which we will understand a fundamental theorem about the structure of excellent local domains in prime characteristics due to Hochster and Huneke. This theorem states that the absolute integral closure of such a ring is a Big Cohen-Macaulay algebra. In the first talk, we review some preliminary material about local cohomology and Cohen-Macaulay rings and understand the precise statement of the main theorem. As quick applications, we will see how this theorem can be used to prove some well-known results - for example the Hochster-Roberts theorem and the Cohen-Macaulayness of splinters. Time permitting, we will also discuss how the theorem of Hochster and Huneke can be used to prove that regular rings are splinters in positive characteristics.",
-                "date": "10/20"
-            },
-            {
-                "name": "Desiree Laurel Martin",
-                "title": "A Complete Classification of DG Trees and Cycles",
-                "abstract": "Let G be a tree and I(G) the edge ideal of G. In this talk we explore the relationship between the Taylor resolution of an edge ideal and its minimal free resolution using Morse theory. We then ask when the minimal free resolutions of these edge ideals inherit the differential graded (dg) algebra structure from the Taylor resolution. This is joint work with High Geller and Henry Potts-Rubin.",
-                "date": "10/02"
-            },
-            {
-                "name": "Kashif Khan",
-                "title": "The same De Rham duality statement for D-modules",
-                "abstract": "In continuing the attempt to compromise on a common interest between Dimas and myself, we provide and define the necessary conditions needed for the De Rham duality for D-modules. Recall we have R is a complete local ring (i.e. R=k[[x_1,...,x_n]]). We first go back to Matlis Duality and provide the framework for how the Matlis Dual is a D module for non-finitely generated R-modules that are also D-modules. Then we'll give examples of D-modules and their Matlis duals that arise naturally. Lastly, we go over the ingredients for the De Rham duality statement, such as why holonomic modules appear. But most importantly, we celebrate two birthdays!",
-                "date": "09/29"
-            },
-            {
-                "name": "Manav Batavia",
-                "title": "Algebras with a straightening law in invariant theory",
-                "abstract": "Algebras with a straightening law (ASLs) provide a striking illustration of how combinatorial methods can simplify ring-theoretic computations. In this talk, I will introduce the concept of ASLs, outline their key structural properties, and present natural examples arising as invariant rings of specific group actions.",
-                "date": "09/26"
-            },
-            {
-                "name": "Dimas Sanjoyo",
-                "title": "A De Rham Duality Statement for D-modules",
-                "abstract": "In attempting to compromise on a common interest between Kashif and myself, we stumbled upon a paper of Switala with the following result: if R is a complete regular local ring containing k, and D = D(R,k) is the ring of k-linear differential operators on R, then the Matlis dual of M of any left D-module M can be given the structure of a left D-module. Further, if M is a holonomic D-module, then the de Rham cohomology spaces of the Matlis dual of M are k-dual to those of M. In this talk, I will present the first result, and some basic definitions and results about holonomic D-modules.",
-                "date": "09/22"
+                "name": "Group Project 2",
+                "title": "TBD",
+                "abstract": "TBD",
+                "date": "04/02"
             },
             {
                 "name": "Joseph Sullivan",
-                "title": "Koszul Rings",
-                "abstract": "Last week Kolton defined for us (in particular) the Koszul complex for a regular sequence. We're going to reinterpret a Koszul complex for the graded polynomial ring/symmetric algebra as a duality with the exterior algebra. More generally, we will define this Koszul complex for \"quadratic algebras\", and when it happens to be exact, we will get Koszul duality, which relates to certain Ext algebras.",
-                "date": "09/15"
+                "title": "TBD",
+                "abstract": "TBD",
+                "date": "03/26"
             },
             {
-                "name": "Kolton O'Neal",
-                "title": "The Tate Resolution Over a Complete Intersection Ring",
-                "abstract": "Given a Noetherian commutative ring R and an ideal I in R, the Koszul complex is a differential graded (DG) R-algebra. If the generators for I form a regular sequence, the Koszul complex is also a free resolution for R/I. But if they don't form a regular sequence, Tate provided a general construction in 1957 that always produces a DG R-algebra that is also a free resolution for R/I. In this talk, we define free resolutions, the Koszul complex, and DG algebras. We then describe Tate's construction. Finally, we state a nice result from Tate's paper about certain rings for which this construction terminates after only 2 steps. In general, Tate's construction may take infinitely many steps. If time allows, I'll discuss an outline of a proof of this theorem in a special case.",
-                "date": "09/08"
+                "name": "Antonia Kekkou",
+                "title": "TBD",
+                "abstract": "TBD",
+                "date": "03/19"
+            },
+            {
+                "name": "Group Project 1",
+                "title": "TBD",
+                "abstract": "TBD",
+                "date": "03/05"
+            },
+            {
+                "name": "Group Project 1",
+                "title": "TBD",
+                "abstract": "TBD",
+                "date": "02/26"
+            },
+            {
+                "name": "Group Project 1",
+                "title": "TBD",
+                "abstract": "TBD",
+                "date": "02/19"
+            },
+            {
+                "name": "Dimas Sanjoyo",
+                "title": "TBD",
+                "abstract": "TBD",
+                "date": "02/12"
+            },
+            {
+                "name": "Kashif Khan",
+                "title": "TBD",
+                "abstract": "TBD",
+                "date": "02/05"
+            },
+            {
+                "name": "Gari Chua",
+                "title": "TBD",
+                "abstract": "TBD",
+                "date": "01/29"
+            },
+            {
+                "name": "Jorge Gaspar Lara",
+                "title": "TBD",
+                "abstract": "TBD",
+                "date": "01/22"
             },
             {
                 "name": "Aryaman Maithani",
-                "title": "Splittings in Classical Invariant Theory",
-                "abstract": "In this talk, we shall talk about the classical group actions of the classical groups — the general linear, special linear, orthogonal, and symplectic groups. Each of these is a subgroup G of GL_t and acts naturally on a ring like R = K[Y_{t x n}] via matrix multiplication, and the ring of invariants R^G is what shall be looking at. In characteristic zero, the inclusion R^G  ↪ R possesses an appropriate splitting, and we shall describe methods of computing this over an arbitrary field of characteristic zero. Lastly, we will contrast this with positive characteristic and note a curious phenomenon that every characteristic zero splitting must have every prime appearing in the denominator. ",
-                "date": "08/25"
+                "title": "TBD",
+                "abstract": "TBD",
+                "date": "01/15"
             }
         ]
     },
     "semesters": [
+        {
+            "name": "Fall 2025",
+            "talks": [
+                {
+                    "name": "Nawaj KC",
+                    "title": "Local cohomology over polynomial Z-algebras",
+                    "abstract": "In this talk, I will sketch the proof of the following theorem: If R is a polynomial ring over the integers Z, then the local cohomology modules of R supported at any ideal has finitely many associated primes. The proof is quite amazing, so please tune in.",
+                    "date": "12/01"
+                },
+                {
+                    "name": "Antonia Kekkou",
+                    "title": "Associated Primes of Local Cohomology Modules over a Polynomial Ring with Complex Coefficients",
+                    "abstract": "In the second talk of this series, we’ll show that the local cohomology modules of a polynomial ring over the complex numbers, for any ideal, have finitely many associated prime ideals. To show this, we’ll introduce the theory of D-modules.",
+                    "date": "11/24"
+                },
+                {
+                    "name": "Ethan Morgan",
+                    "title": "Associated Primes of Local Cohomology Modules",
+                    "abstract": "In this talk, I'll provide some background information relevant to Antonia and Nawaj's upcoming talks. We will do a quick refresher course on what local cohomology is, then talk about associated primes of local cohomology modules and some conjectures/results related to cases where there are finitely many. We'll then take a look at an example to show that local cohomology modules can have infinitely many associated primes.",
+                    "date": "11/17"
+                },
+                {
+                    "name": "Gari Chua",
+                    "title": "Proof of the Central Result of Huneke-Lyubeznik",
+                    "abstract": "In this talk, we present the proof of the central result of Huneke-Lyubeznik, which states that if R is the homomorphic image of a Gorenstein local ring, with absolute integral closure R^+, then the natural induced map on local cohomology is the zero map for all degrees smaller than dim R. This is an extension of a result of Hochster-Huneke that proves the result for regular rings. This result has some consequences that help us understand the absolute integral closure better. Of note is the implication that R^+ is a big Cohen-Macaulay algebra for R. If time permits, we can also reformulate this in terms of dualizing complexes.",
+                    "date": "11/03"
+                },
+                {
+                    "name": "Jorge Gaspar Lara",
+                    "title": "Local Cohomology and Equational Lemma",
+                    "abstract": "In the second entry on our series of talks we will briefly introduce local cohomology. I will do some basic computations of it as well as define the Čech complex. After this, we will turn our attention to the Equational Lemma, which will be a key ingredient for the proof of our Main Theorem on the next talk!",
+                    "date": "10/27"
+                },
+                {
+                    "name": "Suchitra Pande",
+                    "title": "Cohen-Macaulay rings and splinters via local cohomology",
+                    "abstract": "This is a first in a series of three talks in which we will understand a fundamental theorem about the structure of excellent local domains in prime characteristics due to Hochster and Huneke. This theorem states that the absolute integral closure of such a ring is a Big Cohen-Macaulay algebra. In the first talk, we review some preliminary material about local cohomology and Cohen-Macaulay rings and understand the precise statement of the main theorem. As quick applications, we will see how this theorem can be used to prove some well-known results - for example the Hochster-Roberts theorem and the Cohen-Macaulayness of splinters. Time permitting, we will also discuss how the theorem of Hochster and Huneke can be used to prove that regular rings are splinters in positive characteristics.",
+                    "date": "10/20"
+                },
+                {
+                    "name": "Desiree Laurel Martin",
+                    "title": "A Complete Classification of DG Trees and Cycles",
+                    "abstract": "Let G be a tree and I(G) the edge ideal of G. In this talk we explore the relationship between the Taylor resolution of an edge ideal and its minimal free resolution using Morse theory. We then ask when the minimal free resolutions of these edge ideals inherit the differential graded (dg) algebra structure from the Taylor resolution. This is joint work with High Geller and Henry Potts-Rubin.",
+                    "date": "10/02"
+                },
+                {
+                    "name": "Kashif Khan",
+                    "title": "The same De Rham duality statement for D-modules",
+                    "abstract": "In continuing the attempt to compromise on a common interest between Dimas and myself, we provide and define the necessary conditions needed for the De Rham duality for D-modules. Recall we have R is a complete local ring (i.e. R=k[[x_1,...,x_n]]). We first go back to Matlis Duality and provide the framework for how the Matlis Dual is a D module for non-finitely generated R-modules that are also D-modules. Then we'll give examples of D-modules and their Matlis duals that arise naturally. Lastly, we go over the ingredients for the De Rham duality statement, such as why holonomic modules appear. But most importantly, we celebrate two birthdays!",
+                    "date": "09/29"
+                },
+                {
+                    "name": "Manav Batavia",
+                    "title": "Algebras with a straightening law in invariant theory",
+                    "abstract": "Algebras with a straightening law (ASLs) provide a striking illustration of how combinatorial methods can simplify ring-theoretic computations. In this talk, I will introduce the concept of ASLs, outline their key structural properties, and present natural examples arising as invariant rings of specific group actions.",
+                    "date": "09/26"
+                },
+                {
+                    "name": "Dimas Sanjoyo",
+                    "title": "A De Rham Duality Statement for D-modules",
+                    "abstract": "In attempting to compromise on a common interest between Kashif and myself, we stumbled upon a paper of Switala with the following result: if R is a complete regular local ring containing k, and D = D(R,k) is the ring of k-linear differential operators on R, then the Matlis dual of M of any left D-module M can be given the structure of a left D-module. Further, if M is a holonomic D-module, then the de Rham cohomology spaces of the Matlis dual of M are k-dual to those of M. In this talk, I will present the first result, and some basic definitions and results about holonomic D-modules.",
+                    "date": "09/22"
+                },
+                {
+                    "name": "Joseph Sullivan",
+                    "title": "Koszul Rings",
+                    "abstract": "Last week Kolton defined for us (in particular) the Koszul complex for a regular sequence. We're going to reinterpret a Koszul complex for the graded polynomial ring/symmetric algebra as a duality with the exterior algebra. More generally, we will define this Koszul complex for \"quadratic algebras\", and when it happens to be exact, we will get Koszul duality, which relates to certain Ext algebras.",
+                    "date": "09/15"
+                },
+                {
+                    "name": "Kolton O'Neal",
+                    "title": "The Tate Resolution Over a Complete Intersection Ring",
+                    "abstract": "Given a Noetherian commutative ring R and an ideal I in R, the Koszul complex is a differential graded (DG) R-algebra. If the generators for I form a regular sequence, the Koszul complex is also a free resolution for R/I. But if they don't form a regular sequence, Tate provided a general construction in 1957 that always produces a DG R-algebra that is also a free resolution for R/I. In this talk, we define free resolutions, the Koszul complex, and DG algebras. We then describe Tate's construction. Finally, we state a nice result from Tate's paper about certain rings for which this construction terminates after only 2 steps. In general, Tate's construction may take infinitely many steps. If time allows, I'll discuss an outline of a proof of this theorem in a special case.",
+                    "date": "09/08"
+                },
+                {
+                    "name": "Aryaman Maithani",
+                    "title": "Splittings in Classical Invariant Theory",
+                    "abstract": "In this talk, we shall talk about the classical group actions of the classical groups — the general linear, special linear, orthogonal, and symplectic groups. Each of these is a subgroup G of GL_t and acts naturally on a ring like R = K[Y_{t x n}] via matrix multiplication, and the ring of invariants R^G is what shall be looking at. In characteristic zero, the inclusion R^G  ↪ R possesses an appropriate splitting, and we shall describe methods of computing this over an arbitrary field of characteristic zero. Lastly, we will contrast this with positive characteristic and note a curious phenomenon that every characteristic zero splitting must have every prime appearing in the denominator. ",
+                    "date": "08/25"
+                }
+            ]
+        },
         {
             "name": "Fall 2024",
             "talks": [
