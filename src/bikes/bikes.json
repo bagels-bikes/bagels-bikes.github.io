@@ -76,8 +76,8 @@
             },
             {
                 "name": "Aryaman Maithani",
-                "title": "TBD",
-                "abstract": "TBD",
+                "title": "On invariant rings of permutation groups",
+                "abstract": "Consider the action of a subgroup G of S_n acting on the polynomial ring S = k[x_1, ..., x_n] by permuting the variables. Noting that this action does not really refer to the base field k, one may ask if the ring of invariants S^G is also suitably independent of k. For example, the properties of being Cohen–Macaulay, Gorenstein, a UFD, F-regular, etc… <br> One may also ask whether suitable numerical invariants are also independent: the a-invariant, the Hilbert series of S^G, the Hilbert series of H^n(S)^G and H^n(S^G). If you would like the answers to these questions, this talk is for you.",
                 "date": "01/15"
             }
         ]
