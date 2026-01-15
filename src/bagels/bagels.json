@@ -76,8 +76,8 @@
             },
             {
                 "name": "Rahul Ajit",
-                "title": "TBD",
-                "abstract": "TBD",
+                "title": "Seshadri constants",
+                "abstract": "In 1992, Demailly introduced Seshadri constants (not C.S. Seshadri!) to measure the local positivity of line bundles with the hope that they could be used to prove cases of Fujita’s famous freeness and ampleness conjectures. But Miranda's example was bad news. Still, there are some relations between them. More importantly, these constants have other uses, for example to characterize projective space (in char 0 and p), K-stability as well as to prove existence of flips for 3-folds in mixed char. There are char p (due to Mustata-Schwede) and mixed char (due to BMPSTWW) versions of Seshadri constant as well.\n\nWithout assuming any prior knowledge, I will tell the basic story about them. Time permitting, I will advertise a few results of mine.",
                 "date": "01/14"
             }
         ]
