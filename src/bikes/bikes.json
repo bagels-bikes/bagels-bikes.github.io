@@ -64,15 +64,9 @@
             },
             {
                 "name": "Gari Chua",
-                "title": "TBD",
-                "abstract": "TBD",
+                "title": "Multiplicities, Closures, and Interpolation",
+                "abstract": "The Hilbert-Samuel and Hilbert-Kunz multiplicities are invariants of classical interest, and both generalize the notion of the multiplicity of a plane curve at a point. On the other hand, certain ideal closures, such as integral closure and tight closure, have seen a lot of interest in defining singularities. These multiplicities and closures are related in the following sense: for nice enough local rings, two ideals have the same Hilbert-Samuel (resp. Hilbert-Kunz) multiplicity if and only if they have the same integral (resp. tight) closure. All these notions can be defined in characteristic p, with tight closure contained in integral closure and Hilbert-Kunz multiplicity smaller than Hilbert-Samuel multiplicity. In this talk, we explore Taylor's theory of s-multiplicities and s-closures, which provide a way to continuously interpolate between the two closures and the two multiplicities. We will see that this theory gives rise to certain distinct multiplicities and closures. Finally, we state certain results and conjectures regarding these interpolations, such as a version of the Briancon-Skoda Theorem.",
                 "date": "01/29"
-            },
-            {
-                "name": "Jorge Gaspar Lara",
-                "title": "TBD",
-                "abstract": "TBD",
-                "date": "01/22"
             },
             {
                 "name": "Aryaman Maithani",
