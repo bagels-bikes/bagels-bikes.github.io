@@ -21,31 +21,31 @@
                 "date": "04/02"
             },
             {
-                "name": "Joseph Sullivan",
+                "name": "Antonia Kekkou",
                 "title": "TBD",
                 "abstract": "TBD",
                 "date": "03/26"
             },
             {
-                "name": "Antonia Kekkou",
+                "name": "Determinantal Rings 3",
                 "title": "TBD",
                 "abstract": "TBD",
                 "date": "03/19"
             },
             {
-                "name": "Group Project 1",
+                "name": "Determinantal Rings 2",
                 "title": "TBD",
                 "abstract": "TBD",
                 "date": "03/05"
             },
             {
-                "name": "Group Project 1",
+                "name": "Determinantal Rings 1",
                 "title": "TBD",
                 "abstract": "TBD",
                 "date": "02/26"
             },
             {
-                "name": "Group Project 1",
+                "name": "Joseph Sullivan",
                 "title": "TBD",
                 "abstract": "TBD",
                 "date": "02/19"
@@ -58,8 +58,8 @@
             },
             {
                 "name": "Kashif Khan",
-                "title": "TBD",
-                "abstract": "TBD",
+                "title": "Derived Morita Theory",
+                "abstract": "Classical Morita Theory gives conditions for when the module categories of rings are equivalent. An analogous question can be asked about whether two rings have equivalent derived categories. In this talk, we answer this question by going through Jeremy Rickard's paper ‘Morita Theory for Derived Categories,’ where we are introduced to the notion of a Tilting module which generalizes the finitely generated projective generators in classical Morita Theory. We also talk about ‘Morita invariants’ for the derived category.",
                 "date": "02/05"
             },
             {
@@ -423,7 +423,7 @@
                     "date": "12/09"
                 },
                 {
-                    "name": "Sandra Rodriquez Villalobos",
+                    "name": "Sandra Rodriguez Villalobos",
                     "title": "Simplicial resolution",
                     "date": "12/02"
                 },     
@@ -521,6 +521,81 @@
                     "name": "Trung Chau",
                     "title": "Peskine-Szpiro",
                     "date": "02/05"
+                }
+            ]
+        },
+        {
+            "name": "Fall 2020",
+            "talks": [
+                {
+                    "name": "Daniel McCormick",
+                    "title": "Rational homotopy theory",
+                    "date": "12/01"
+                },
+                {
+                    "name": "Peter McDonald",
+                    "title": "Rational homotopy theory",
+                    "date": "11/24"
+                },
+                {
+                    "name": "Josh Pollitz",
+                    "title": "Rational homotopy theory",
+                    "date": "11/17"
+                },
+                {
+                    "name": "Vaibhav Pandey",
+                    "title": "D-modules and differential operators",
+                    "date": "11/10"
+                },
+                {
+                    "name": "Trung Chau",
+                    "title": "D-modules and differential operators",
+                    "date": "11/03"
+                },
+                {
+                    "name": "Sandra Rodriguez Villalobos",
+                    "title": "D-modules and differential operators",
+                    "date": "10/27"
+                },
+                {
+                    "name": "Daniel McCormick",
+                    "title": "Hochschild cohomology and group cohomology",
+                    "date": "10/20"
+                },
+                {
+                    "name": "Jian",
+                    "title": "Kahler differentials and the Hochschild cohomology ring",
+                    "date": "10/13"
+                },
+                {
+                    "name": "Janina Letz",
+                    "title": "Introduction to group cohomology, Hochschild cohomology, and Hopf algebras",
+                    "date": "10/06"
+                },
+                {
+                    "name": "Seungsu Lee",
+                    "title": "Geometric aspects of F-splitting",
+                    "date": "09/29"
+                },
+                {
+                    "name": "Ruyi",
+                    "title": "Kunz's Theorem",
+                    "date": "09/22"
+                },
+                {
+                    "name": "Isaac Martin",
+                    "title": "Introduction to F-singularities",
+                    "date": "09/15"
+                },
+                {
+                    "name": "Aeolus",
+                    "title": "Shallow root systems in desert landscapes",
+                    "date": "09/08"
+                },
+                {
+                    "name": "Marcus Robinson",
+                    "title": "Universally dendroidal quasi-images",
+                    "date": "09/01"
                 }
             ]
         }     
