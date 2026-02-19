@@ -28,26 +28,26 @@
             },
             {
                 "name": "Determinantal Rings 3",
-                "title": "TBD",
+                "title": "Kashif Khan",
                 "abstract": "TBD",
                 "date": "03/19"
             },
             {
                 "name": "Determinantal Rings 2",
-                "title": "TBD",
+                "title": "Ethan Morgan",
                 "abstract": "TBD",
                 "date": "03/05"
             },
             {
                 "name": "Determinantal Rings 1",
-                "title": "TBD",
+                "title": "Kolton O'Neal",
                 "abstract": "TBD",
                 "date": "02/26"
             },
             {
                 "name": "Joseph Sullivan",
-                "title": "TBD",
-                "abstract": "TBD",
+                "title": "Tilting Quivers",
+                "abstract": "While Rickard's theorem (from Kashif's talk) characterizes all derived equivalences between certain algebras in terms of tilting complexes, we will specialize to an easier setting by defining tilting objects. After going through a cute proof for how tilting objects in particular give derived equivalences, we will find several tilting objects explicitly in the context of quiver representations (continuing Dimas's noncommutative trend). I hope to draw several pictures.",
                 "date": "02/19"
             },
             {
