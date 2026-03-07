@@ -3,45 +3,45 @@
         "name": "Spring 2026",
         "talks": [
             {
-                "name": "Group Project 2",
-                "title": "TBD",
+                "name": "TBD",
+                "title": "Group Project 2",
                 "abstract": "TBD",
                 "date": "04/16"
             },
             {
-                "name": "Group Project 2",
-                "title": "TBD",
+                "name": "TBD",
+                "title": "Group Project 2",
                 "abstract": "TBD",
                 "date": "04/09"
             },
             {
-                "name": "Group Project 2",
-                "title": "TBD",
+                "name": "TBD",
+                "title": "Group Project 2",
                 "abstract": "TBD",
                 "date": "04/02"
             },
             {
-                "name": "Antonia Kekkou",
-                "title": "TBD",
+                "name": "TBD",
+                "title": "Group Project 2",
                 "abstract": "TBD",
                 "date": "03/26"
             },
             {
-                "name": "Determinantal Rings 3",
-                "title": "Kashif Khan",
+                "name": "Kashif Khan",
+                "title": "Determinantal Rings 3",
                 "abstract": "TBD",
                 "date": "03/19"
             },
             {
-                "name": "Determinantal Rings 2",
-                "title": "Ethan Morgan",
-                "abstract": "TBD",
+                "name": "Ethan Morgan",
+                "title": "More Properties of Determinantal Rings",
+                "abstract": "In this talk, I'll wrap up the proof that determinantal rings of the form k[X]/I_2(X) are Cohen-Macaulay. After that, we'll move on to an overview of one way to generalize these methods to determine the same properties we've done in the 2x2 case for k[X]/I_t(X) with arbitrary t.",
                 "date": "03/05"
             },
             {
-                "name": "Determinantal Rings 1",
-                "title": "Kolton O'Neal",
-                "abstract": "TBD",
+                "name": "Kolton O'Neal",
+                "title": "Intro to Determinantal Rings",
+                "abstract": "Let X be a matrix of indeterminates. We consider rings of the form k[X]/I_t(X). They turn out to be fairly nice rings (in particular, they are Cohen-Macaulay). This first in a series of talks about determinantal rings will introduce these rings, talk about some related open problems, and show they are integral domains. The proof of this fact is surprisingly long.",
                 "date": "02/26"
             },
             {
