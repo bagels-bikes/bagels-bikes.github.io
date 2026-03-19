@@ -15,21 +15,21 @@
                 "date": "04/09"
             },
             {
-                "name": "TBD",
+                "name": "Ethan Morgan",
                 "title": "Group Project 2",
                 "abstract": "TBD",
                 "date": "04/02"
             },
             {
-                "name": "TBD",
+                "name": "Jorge Gaspar Lara",
                 "title": "Group Project 2",
                 "abstract": "TBD",
                 "date": "03/26"
             },
             {
                 "name": "Kashif Khan",
-                "title": "Determinantal Rings 3",
-                "abstract": "TBD",
+                "title": "ASL",
+                "abstract": "In this talk, we give the definition of Hodge algebra and ASLs (Not American Sign Language) with the motivation coming from determinantal rings. Then, we explain how to determine properties (such as Cohen Macaulyness) about an ASL by going to its discrete Hodge algebra. If time permits, we give an alternate calculation of the dimension of determinantal rings and a rough outline of the proof to show they are CM.",
                 "date": "03/19"
             },
             {
