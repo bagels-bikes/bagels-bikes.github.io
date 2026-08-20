@@ -1,17 +1,29 @@
 {
     "currentSemester": {
-        "name": "Spring 2026",
+        "name": "Fall 2026",
         "talks": [
             {
                 "name": "TBD",
-                "title": "Trivial Extensions 3",
+                "title": "TBD",
                 "abstract": "TBD",
+                "date": "TBD"
+            }
+        ]
+    },
+    "semesters": [
+        {
+        "name": "Spring 2026",
+        "talks": [
+            {
+                "name": "Jorge Gaspar Lara",
+                "title": "Trivial Extensions 3",
+                "abstract": " ",
                 "date": "04/16"
             },
             {
                 "name": "Ethan Morgan",
-                "title": "Trivial Extensions 2",
-                "abstract": "TBD",
+                "title": "Resolutions Over Trivial Extensions",
+                "abstract": "In this talk, we will continue to discuss trivial extensions of rings. First, we will finish characterizing projective and injective modules over a trivial extension. With this in hand, we will discuss a process to construct projective resolutions of these modules.",
                 "date": "04/09"
             },
             {
@@ -69,8 +81,7 @@
                 "date": "01/15"
             }
         ]
-    },
-    "semesters": [
+        },
         {
             "name": "Fall 2025",
             "talks": [
