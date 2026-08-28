@@ -1,94 +1,177 @@
 {
     "currentSemester": {
-        "name": "Spring 2026",
+        "name": "Fall 2026",
         "talks": [
             {
                 "name": "TBD",
-                "title": "Brauer Group",
-                "abstract": "TBD",
-                "date": "04/15"
-            },
-            {
-                "name": "TBD",
-                "title": "Brauer Group",
-                "abstract": "TBD",
-                "date": "04/08"
-            },
-            {
-                "name": "TBD",
-                "title": "Brauer Group",
-                "abstract": "TBD",
-                "date": "04/01"
-            },
-            {
-                "name": "Will Legg",
                 "title": "TBD",
                 "abstract": "TBD",
-                "date": "03/25"
+                "date": "12/10"
             },
             {
-                "name": "Daniel Apsley",
-                "title": "MMP and LCT",
-                "abstract": "Bonus BAGELS talk.",
-                "date": "03/20"
+                "name": "TBD",
+                "title": "TBD",
+                "abstract": "TBD",
+                "date": "12/03"
             },
             {
-                "name": "Liebo Pan",
-                "title": "Moduli space of semistable sheaves.",
-                "abstract": "It is well known that a fine moduli space for all coherent sheaves does not exist. However, by restricting our focus to a smaller class of sheaves and weakening the representability of the moduli functor, we can achieve this goal. The key concept in this construction is the notion of stability. Originally proposed by Mumford to construct moduli spaces of stable vector bundles on curves, this concept was later generalized to higher dimensions by Maruyama, Gieseker, and Simpson. In today's talk, I will focus on Gieseker-Simpson stability for pure sheaves. The main idea of the construction is to identify an open subscheme of an appropriate Quot scheme where the semistable sheaves live, take its GIT quotient, and ultimately show that GIT stability coincides with Gieseker-Simpson stability. If time permits, I will also briefly discuss alternative methods for constructing moduli spaces of sheaves.",
-                "date": "03/18"
+                "name": "TBD",
+                "title": "TBD",
+                "abstract": "TBD",
+                "date": "11/29"
             },
             {
-                "name": "Zach Mere",
-                "title": "A Witt vector version of Greenberg's theorem",
-                "abstract": "Greenberg schemes are one way to generalize arc spaces. The idea is to replace the ring of formal power series k[[t]] with an arbitrary complete DVR. In mixed characteristic, the most important example is the ring of Witt vectors W(k) over a perfect field of characteristic p. Continuing last week's talk, we will discuss the fibers and images of the natural truncation maps in this new setting.",
-                "date": "03/04"
+                "name": "TBD",
+                "title": "(MM/HK)P III",
+                "abstract": "TBD",
+                "date": "10/29"
             },
             {
-                "name": "Zach Mere",
-                "title": "Greenberg's approximation theorem",
-                "abstract": "If f(x) is a polynomial and x(t) is a power series, it is natural to ask when f(x(t))=0. Given a system of polynomials with coefficients in a field, Greenberg's theorem gives a necessary and sufficient condition for the liftability of solutions mod t^n. After some basic definitions and examples, we will go through the proof and draw out the consequences for the theory of jet schemes and arc spaces.",
-                "date": "02/25"
+                "name": "TBD",
+                "title": "(MM/HK)P II",
+                "abstract": "TBD",
+                "date": "10/29"
             },
             {
-                "name": "Joseph Sullivan",
-                "title": "Chern Classes",
-                "abstract": "In this impromptu talk, I will introduce Chern classes using Grothendieck's axiomatic approach, and I'll tell you how to use the splitting principle to calculate the Chern classes of various vector bundles we construct doing linear algebra operations, like tensor/wedge/symmetric products.",
-                "date": "02/18"
+                "name": "TBD",
+                "title": "(MM/HK)P I",
+                "abstract": "TBD",
+                "date": "10/29"
             },
             {
-                "name": "Gari Chua",
-                "title": "Toric Varieties as GIT Quotients",
-                "abstract": "Following the series of talks on GIT, we explore normal toric varieties. These are varieties that can be described using combinatorial information encoded in polyhedral cones and fans. Given a normal toric variety corresponding to a fan, we describe it as a GIT quotient of C^r by a reductive group. We construct this reductive group, as well as the semistable and stable points. Along the way, we will see that the semistable and stable points are given by certain ideals that come from the cones in the fan. These give us many concrete examples of GIT quotients. All examples will be explicitly computed.",
-                "date": "02/11"
+                "name": "TBD",
+                "title": "Commutative Algebraists IV",
+                "abstract": "TBD",
+                "date": "10/22"
             },
             {
-                "name": "Joseph Sullivan",
-                "title": "GIT 3: Application to Quivers",
-                "abstract": "Wrapping up our series on GIT, I will apply the theory to constructing moduli spaces of quiver representations, following King. The story is as follows: a quiver representation is a choice of matrices up to change of basis, so we will exactly be quotienting the affine space of matrices by a big change of basis group. The relevant G-linearized line bundles will come from pairings with dimension vectors, and the Hilbert-Mumford criterion will characterize stability as something very analogous to the classical Mumford stability of vector bundles. Along the way, I hope to recognize several familiar varieties as moduli of quiver representations.",
-                "date": "02/04"
+                "name": "TBD",
+                "title": "Commutative Algebraists III",
+                "abstract": "TBD",
+                "date": "10/08"
             },
             {
-                "name": "Daniel Apsley",
-                "title": "GIT 2: Quotients and Stability",
-                "abstract": "Quotients arise naturally in algebraic geometry when constructing moduli. Geometric invariant theory (GIT) provides a way to construct such quotients explicitly as schemes, known as GIT quotients. In this talk, we will give an overview of the main existence theorems for GIT quotients. As we'll see, in order for this quotient of X to be well-behaved, one must restrict to certain open subsets of X, called the semistable and stable loci. We will conclude by describing these loci explicitly via the Hilbert-Mumford criterion for stability.",
-                "date": "01/28"
+                "name": "TBD",
+                "title": "Commutative Algebraists II",
+                "abstract": "TBD",
+                "date": "10/01"
             },
             {
-                "name": "Jonathon Fleck",
-                "title": "GIT 1: Coarse Moduli Spaces and Algebraic Groups",
-                "abstract": "A moduli problem involves classification of objects up to an equivalence relation while encoding some information about how these classes vary in continuous families. We will begin our three-part series about Geometric Invariant Theory (GIT) with some motivating examples of moduli problems and introduce the concept of a coarse moduli space as a potential solution to such problems.  When problems involve the action of an algebraic group (scheme) on a scheme, GIT is a tool to construct such spaces and so will spend the majority of this talk introducing algebraic groups, their actions, and their quotients.",
-                "date": "01/21"
+                "name": "TBD",
+                "title": "Commutative Algebraists I",
+                "abstract": "TBD",
+                "date": "09/24"
             },
             {
-                "name": "Rahul Ajit",
-                "title": "Seshadri constants",
-                "abstract": "In 1992, Demailly introduced Seshadri constants (not C.S. Seshadri!) to measure the local positivity of line bundles with the hope that they could be used to prove cases of Fujita’s famous freeness and ampleness conjectures. But Miranda's example was bad news. Still, there are some relations between them. More importantly, these constants have other uses, for example to characterize projective space (in char 0 and p), K-stability as well as to prove existence of flips for 3-folds in mixed char. There are char p (due to Mustata-Schwede) and mixed char (due to BMPSTWW) versions of Seshadri constant as well.\n\nWithout assuming any prior knowledge, I will tell the basic story about them. Time permitting, I will advertise a few results of mine.",
-                "date": "01/14"
+                "name": "TBD",
+                "title": "Flag Varieties III",
+                "abstract": "TBD",
+                "date": "09/17"
+            },
+            {
+                "name": "TBD",
+                "title": "Flag Varieties II",
+                "abstract": "TBD",
+                "date": "09/10"
+            },
+            {
+                "name": "TBD",
+                "title": "Flag Varieties I",
+                "abstract": "TBD",
+                "date": "09/03"
             }
         ]
     },
     "semesters": [
+        {
+            "name": "Spring 2026",
+            "talks": [
+                {
+                    "name": "Dominic Matan",
+                    "title": "Brauer III: The Artin-Mumford sequence",
+                    "abstract": "The Artin-Mumford sequence is a canonical complex in etale cohomology that measures the obstruction to extending an Azumaya algebra from the generic point of a smooth projective surface to the whole surface. In this talk, I will give a brief account of its origins, explain how to read and interpret the sequence, and illustrate how it encodes a notion of ramification data for Brauer classes. I will then show how this perspective can be used to study the birational geometry of certain \"noncommutative surfaces,\" providing insight into which division algebras can arise over the function field of a surface.",
+                    "date": "04/15"
+                },
+                {
+                    "name": "Joseph Sullivan",
+                    "title": "Brauer II: Cohomological Characterization for Schemes",
+                    "abstract": "Continuing where Kashif left us, we generalize the Brauer group to be an invariant of a scheme. We sketch the proof of a similar cohomological characterization, which follows a similar route as Kashif's talk, but we will have to explain how Galois cohomology gets replaced by étale cohomology. Time permitting, we will point at different geometric applications of this Brauer group, for example obstructing the existence of universal families or lifting of vector bundles from projective bundles.",
+                    "date": "04/08"
+                },
+                {
+                    "name": "Kashif Khan",
+                    "title": "Brauer 1",
+                    "abstract": "This is the first (of 3) talks on the Brauer group. We start with trying to classify (homologically) all central simple algebras (CSAs) over a field k. This is done through Group Cohomology with coefficients in not necessarily commutative groups! We also discuss how to find the Galois Cohomology for infinite Galois extensions. While this may seem not so geometric, it will lay the foundation for the latter talks where we bootstrap these methods to Azumaya algebras and sheaves of Azumaya algebras",
+                    "date": "04/01"
+                },
+                {
+                    "name": "Will Legg",
+                    "title": "TBD",
+                    "abstract": "TBD",
+                    "date": "03/25"
+                },
+                {
+                    "name": "Daniel Apsley",
+                    "title": "MMP and LCT",
+                    "abstract": "Bonus BAGELS talk.",
+                    "date": "03/20"
+                },
+                {
+                    "name": "Liebo Pan",
+                    "title": "Moduli space of semistable sheaves.",
+                    "abstract": "It is well known that a fine moduli space for all coherent sheaves does not exist. However, by restricting our focus to a smaller class of sheaves and weakening the representability of the moduli functor, we can achieve this goal. The key concept in this construction is the notion of stability. Originally proposed by Mumford to construct moduli spaces of stable vector bundles on curves, this concept was later generalized to higher dimensions by Maruyama, Gieseker, and Simpson. In today's talk, I will focus on Gieseker-Simpson stability for pure sheaves. The main idea of the construction is to identify an open subscheme of an appropriate Quot scheme where the semistable sheaves live, take its GIT quotient, and ultimately show that GIT stability coincides with Gieseker-Simpson stability. If time permits, I will also briefly discuss alternative methods for constructing moduli spaces of sheaves.",
+                    "date": "03/18"
+                },
+                {
+                    "name": "Zach Mere",
+                    "title": "A Witt vector version of Greenberg's theorem",
+                    "abstract": "Greenberg schemes are one way to generalize arc spaces. The idea is to replace the ring of formal power series k[[t]] with an arbitrary complete DVR. In mixed characteristic, the most important example is the ring of Witt vectors W(k) over a perfect field of characteristic p. Continuing last week's talk, we will discuss the fibers and images of the natural truncation maps in this new setting.",
+                    "date": "03/04"
+                },
+                {
+                    "name": "Zach Mere",
+                    "title": "Greenberg's approximation theorem",
+                    "abstract": "If f(x) is a polynomial and x(t) is a power series, it is natural to ask when f(x(t))=0. Given a system of polynomials with coefficients in a field, Greenberg's theorem gives a necessary and sufficient condition for the liftability of solutions mod t^n. After some basic definitions and examples, we will go through the proof and draw out the consequences for the theory of jet schemes and arc spaces.",
+                    "date": "02/25"
+                },
+                {
+                    "name": "Joseph Sullivan",
+                    "title": "Chern Classes",
+                    "abstract": "In this impromptu talk, I will introduce Chern classes using Grothendieck's axiomatic approach, and I'll tell you how to use the splitting principle to calculate the Chern classes of various vector bundles we construct doing linear algebra operations, like tensor/wedge/symmetric products.",
+                    "date": "02/18"
+                },
+                {
+                    "name": "Gari Chua",
+                    "title": "Toric Varieties as GIT Quotients",
+                    "abstract": "Following the series of talks on GIT, we explore normal toric varieties. These are varieties that can be described using combinatorial information encoded in polyhedral cones and fans. Given a normal toric variety corresponding to a fan, we describe it as a GIT quotient of C^r by a reductive group. We construct this reductive group, as well as the semistable and stable points. Along the way, we will see that the semistable and stable points are given by certain ideals that come from the cones in the fan. These give us many concrete examples of GIT quotients. All examples will be explicitly computed.",
+                    "date": "02/11"
+                },
+                {
+                    "name": "Joseph Sullivan",
+                    "title": "GIT 3: Application to Quivers",
+                    "abstract": "Wrapping up our series on GIT, I will apply the theory to constructing moduli spaces of quiver representations, following King. The story is as follows: a quiver representation is a choice of matrices up to change of basis, so we will exactly be quotienting the affine space of matrices by a big change of basis group. The relevant G-linearized line bundles will come from pairings with dimension vectors, and the Hilbert-Mumford criterion will characterize stability as something very analogous to the classical Mumford stability of vector bundles. Along the way, I hope to recognize several familiar varieties as moduli of quiver representations.",
+                    "date": "02/04"
+                },
+                {
+                    "name": "Daniel Apsley",
+                    "title": "GIT 2: Quotients and Stability",
+                    "abstract": "Quotients arise naturally in algebraic geometry when constructing moduli. Geometric invariant theory (GIT) provides a way to construct such quotients explicitly as schemes, known as GIT quotients. In this talk, we will give an overview of the main existence theorems for GIT quotients. As we'll see, in order for this quotient of X to be well-behaved, one must restrict to certain open subsets of X, called the semistable and stable loci. We will conclude by describing these loci explicitly via the Hilbert-Mumford criterion for stability.",
+                    "date": "01/28"
+                },
+                {
+                    "name": "Jonathon Fleck",
+                    "title": "GIT 1: Coarse Moduli Spaces and Algebraic Groups",
+                    "abstract": "A moduli problem involves classification of objects up to an equivalence relation while encoding some information about how these classes vary in continuous families. We will begin our three-part series about Geometric Invariant Theory (GIT) with some motivating examples of moduli problems and introduce the concept of a coarse moduli space as a potential solution to such problems.  When problems involve the action of an algebraic group (scheme) on a scheme, GIT is a tool to construct such spaces and so will spend the majority of this talk introducing algebraic groups, their actions, and their quotients.",
+                    "date": "01/21"
+                },
+                {
+                    "name": "Rahul Ajit",
+                    "title": "Seshadri constants",
+                    "abstract": "In 1992, Demailly introduced Seshadri constants (not C.S. Seshadri!) to measure the local positivity of line bundles with the hope that they could be used to prove cases of Fujita’s famous freeness and ampleness conjectures. But Miranda's example was bad news. Still, there are some relations between them. More importantly, these constants have other uses, for example to characterize projective space (in char 0 and p), K-stability as well as to prove existence of flips for 3-folds in mixed char. There are char p (due to Mustata-Schwede) and mixed char (due to BMPSTWW) versions of Seshadri constant as well.\n\nWithout assuming any prior knowledge, I will tell the basic story about them. Time permitting, I will advertise a few results of mine.",
+                    "date": "01/14"
+                }
+            ]
+        },
         {
             "name": "Fall 2025",
             "talks": [
