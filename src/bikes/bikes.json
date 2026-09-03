@@ -3,10 +3,10 @@
         "name": "Fall 2026",
         "talks": [
             {
-                "name": "TBD",
-                "title": "TBD",
-                "abstract": "TBD",
-                "date": "TBD"
+                "name": "Aryaman Maithani",
+                "title": "On the Cohen–Macaulayness of abelian extensions of regular local rings",
+                "abstract": "Let R be a regular local ring with quotient field K. Let L be a Galois extension of K and S the integral closure of R in L. Assume that the Galois group is abelian. Is S Cohen–Macaulay? Roberts showed the answer is affirmative when the order of the group is invertible in the residue field of R, and Koh gave a counterexample in mixed characteristic. Recently, in joint work with Singh and Sridhar, we give equicharacteristic counterexamples. We shall discuss all these results, being rather elementary constructions and proofs!",
+                "date": "09/03"
             }
         ]
     },
