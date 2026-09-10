@@ -3,6 +3,78 @@
         "name": "Fall 2026",
         "talks": [
             {
+                "name": "Kolton O'Neal",
+                "title": "F-stuff 3",
+                "abstract": "",
+                "date": "12/10"
+            },
+            {
+                "name": "Ethan Morgan",
+                "title": "F-stuff 2",
+                "abstract": "",
+                "date": "12/03"
+            },
+            {
+                "name": "Gari Chua",
+                "title": "F-stuff 1",
+                "abstract": "",
+                "date": "11/19"
+            },
+            {
+                "name": "Brendan Murphy",
+                "title": "Reading group 2 part 1",
+                "abstract": "",
+                "date": "11/12"
+            },
+            {
+                "name": "Kashif Khan",
+                "title": "Reading group 2 part 3",
+                "abstract": "",
+                "date": "11/05"
+            },
+            {
+                "name": "Avery Bainbridge",
+                "title": "Reading group 2 part 2",
+                "abstract": "",
+                "date": "10/29"
+            },
+            {
+                "name": "Vince Dillon",
+                "title": "Reading group 2 part 1",
+                "abstract": "",
+                "date": "10/22"
+            },
+            {
+                "name": "Joseph Sullivan",
+                "title": "Derived categories 3",
+                "abstract": "",
+                "date": "10/08"
+            },
+            {
+                "name": "Dimas Sanjoyo (or maybe Ethan)",
+                "title": "Derived categories 2",
+                "abstract": "",
+                "date": "10/01"
+            },
+            {
+                "name": "Jorge Gaspar Lara",
+                "title": "Derived categories 1",
+                "abstract": "",
+                "date": "09/24"
+            },
+            {
+                "name": "Somebody, presumably",
+                "title": "",
+                "abstract": "",
+                "date": "09/17"
+            },
+            {
+                "name": "Brendan Murphy",
+                "title": "Primary invariants for conjugation by GLₙ(𝔽ₚ) on Mₙ(𝔽ₚ)",
+                "abstract": "Over an infinite field, the invariant ring k[Mₙ]^GLₙ(k) is easy to describe: it is a polynomial ring on the coefficients c₁, c₂, …, cₙ of the characteristic polynomial of the generic matrix. Aryaman and before him Larry Smith worked out a description of primary invariants over a finite field in the case n=2, curiously finding that in addition to the coefficients det, tr we obtain the Steenrod power 𝒫¹(det). In this talk we present (as far as time allows) a proof that the n(n+1)/2 invariants c₁, c₂, …, cₙ, 𝒫¹(c₂), …, 𝒫¹(cₙ,), ..., 𝒫ⁿ⁻¹(cₙ) form regular sequence, i.e. they get us just over halfway to a homogeneous system of parameters/set of primary invariants for 𝔽ₚ[Mₙ]^GLₙ(𝔽ₚ). This research was AI-assisted, and the main result has been formalized in Lean.",
+                "date": "09/10"
+            },
+            {
                 "name": "Aryaman Maithani",
                 "title": "On the Cohen–Macaulayness of abelian extensions of regular local rings",
                 "abstract": "Let R be a regular local ring with quotient field K. Let L be a Galois extension of K and S the integral closure of R in L. Assume that the Galois group is abelian. Is S Cohen–Macaulay? Roberts showed the answer is affirmative when the order of the group is invertible in the residue field of R, and Koh gave a counterexample in mixed characteristic. Recently, in joint work with Singh and Sridhar, we give equicharacteristic counterexamples. We shall discuss all these results, being rather elementary constructions and proofs!",
@@ -603,6 +675,131 @@
                     "date": "09/01"
                 }
             ]
-        }     
+        },
+        {
+            "name": "Summer 2020",
+            "talks": [
+                {
+                    "name": "",
+                    "title": "For the summer, BIKES was rebranded as UNICYCLES (Utah's New International Commutative Algebra You-Can-Learn-Electronically Seminar",
+                    "date": ""
+                },
+                {
+                    "name": "Sudipta",
+                    "title": "Quantifying singularities using differential signature",
+                    "date": "08/03"
+                },
+                {
+                    "name": "Shalom",
+                    "title": "Valuation domains and the Frobenius endomorphism",
+                    "date": "07/27"
+                },
+                {
+                    "name": "JJ",
+                    "title": "Tilting equivalence: the key ingredient to perfectoid spaces",
+                    "date": "07/13"
+                },
+                {
+                    "name": "Sandra Rodriguez Villalobos",
+                    "title": "Some invariants in prime characteristic",
+                    "date": "06/29"
+                },
+                {
+                    "name": "Jian",
+                    "title": "Classifying thick subcategories of the stable category of maximal Cohen-Macaulay modules over a hypersurface",
+                    "date": "06/22"
+                },
+                {
+                    "name": "Jenny Kenkel",
+                    "title": "The depth of powers of an ideal",
+                    "date": "06/15"
+                },
+                {
+                    "name": "Vaibhav Pandey",
+                    "title": "Finiteness properites of local cohomology modules: an extended example",
+                    "date": "06/01"
+                },
+                {
+                    "name": "Peter McDonald",
+                    "title": "Computing Rf_*F for coherent sheaves on projective space",
+                    "date": "05/25"
+                }
+            ]
+        },
+        {
+            "name": "Spring 2020",
+            "talks": [
+                {
+                    "name": "Janina Letz",
+                    "title": "The dimension of an intersection in an ambient hypersurface",
+                    "date": "04/23"
+                },
+                {
+                    "name": "Jenny Kenkel",
+                    "title": "FI-modules",
+                    "date": "04/16"
+                },
+                {
+                    "name": "Isaac",
+                    "title": "A remark concerning multiplicities",
+                    "date": "04/09"
+                },
+                {
+                    "name": "Peter McDonald",
+                    "title": "Stability of associated primes",
+                    "date": "04/02"
+                },
+                {
+                    "name": "JJ",
+                    "title": "Homology of Noetherian and local rings",
+                    "date": "03/26"
+                },
+                {
+                    "name": "Vaibhav Pandey",
+                    "title": "Cohomological dimension of ideals defining Veronese subrings",
+                    "date": "03/05"
+                },
+                {
+                    "name": "Daniel",
+                    "title": "Total Betti numbers of moduels of finite projective dimension",
+                    "date": "02/27"
+                },
+                {
+                    "name": "Jian",
+                    "title": "Support varieties and cohomology over CIs",
+                    "date": "02/20"
+                },
+                {
+                    "name": "Janina Letz",
+                    "title": "Support varieties and cohomology over CIs",
+                    "date": "02/13"
+                },
+                {
+                    "name": "Wei",
+                    "title": "Support varieties and cohomology over CIs",
+                    "date": "02/06"
+                },
+                {
+                    "name": "Eloisa Grifo",
+                    "title": "An introduction to characteristic p",
+                    "date": "01/30"
+                },
+                {
+                    "name": "Ben Briggs",
+                    "title": "Hochschild cohomology",
+                    "date": "01/23"
+                },
+                {
+                    "name": "Thomas Polstra",
+                    "title": "Basic elements theorem",
+                    "date": "01/16"
+                },
+                {
+                    "name": "Josh Pollitz",
+                    "title": "Cohomology operators",
+                    "date": "01/09"
+                }
+            ]
+        }       
     ]
 }
