@@ -45,27 +45,27 @@
                 "date": "10/22"
             },
             {
-                "name": "Joseph Sullivan",
-                "title": "Derived categories 3",
+                "name": "???",
+                "title": "Derived categories 4",
                 "abstract": "",
                 "date": "10/08"
             },
             {
                 "name": "Dimas Sanjoyo (or maybe Ethan)",
-                "title": "Derived categories 2",
+                "title": "Derived categories 3",
                 "abstract": "",
                 "date": "10/01"
             },
             {
-                "name": "Jorge Gaspar Lara",
-                "title": "Derived categories 1",
+                "name": "Joseph Sullivan",
+                "title": "Derived categories 2",
                 "abstract": "",
                 "date": "09/24"
             },
             {
-                "name": "Somebody, presumably",
-                "title": "",
-                "abstract": "",
+                "name": "Jorge Gaspar Lara",
+                "title": "Faithfully Flat Descent",
+                "abstract": "In this first talk of our series of 'DG stuff', we introduce the concept of descent for an A-algebra B. We will also discuss the equivalence between A-modules and descent datum on B-modules when the map is faithfully flat. We will discuss an application to functor representability and do a little preview of the derived setting for descent. ",
                 "date": "09/17"
             },
             {
