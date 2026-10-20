@@ -45,16 +45,10 @@
                 "date": "10/22"
             },
             {
-                "name": "???",
-                "title": "Derived categories 4",
-                "abstract": "",
+                "name": "Ethan Morgan",
+                "title": "Monadicity and Faithfully Flat Descent",
+                "abstract": "The goal for this talk is to realize faithfully flat descent that we've been learning about in our last few meetings as a special case of Beck's monadicity theorem. To get there, we'll take a look at important notions like adjunctions, monads, and... monadic adjunctions. This will lay the foundation for the derived descent theory that we'll investigate in our upcoming talks.",
                 "date": "10/08"
-            },
-            {
-                "name": "Dimas Sanjoyo (or maybe Ethan)",
-                "title": "Derived categories 3",
-                "abstract": "",
-                "date": "10/01"
             },
             {
                 "name": "Joseph Sullivan",
