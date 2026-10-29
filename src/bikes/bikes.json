@@ -4,38 +4,38 @@
         "talks": [
             {
                 "name": "Gari Chua",
-                "title": "F-stuff 3",
+                "title": "F-stuff 2",
                 "abstract": "",
                 "date": "12/10"
             },
             {
                 "name": "Ethan Morgan",
-                "title": "F-stuff 2",
+                "title": "F-stuff 1",
                 "abstract": "",
                 "date": "12/03"
             },
             {
                 "name": "Kolton O'Neal",
-                "title": "F-stuff 1",
+                "title": "",
                 "abstract": "",
                 "date": "11/19"
             },
             {
-                "name": "Kashif Khan",
-                "title": "Reading group 2 part 1",
+                "name": "Avery Bainbridge",
+                "title": "Faithfully Flat Descent cont'd, cont'd",
                 "abstract": "",
                 "date": "11/12"
             },
             {
-                "name": "Avery Bainbridge",
-                "title": "Reading group 2 part 3",
+                "name": "Kashif Khan",
+                "title": "Faithfully Flat Descent cont'd",
                 "abstract": "",
                 "date": "11/05"
             },
             {
                 "name": "Vince Dillon",
-                "title": "Reading group 2 part 2",
-                "abstract": "",
+                "title": "Barr-Beck",
+                "abstract": "We continue telling the story of monadicty by proving Barr-Beck. If time allows, we will also show how to use the dual version of this theorem (for comonadicity) to deduce faithfully flat descent for modules.",
                 "date": "10/29"
             },
             {
