@@ -28,8 +28,8 @@
             },
             {
                 "name": "Kashif Khan",
-                "title": "Faithfully Flat Descent cont'd",
-                "abstract": "",
+                "title": "From comonads to simplicial objects to comonad homology",
+                "abstract": "We will give a brief introduction to the notion of simplicial objects, and then we will show that a comonad arising from an adjunction naturally gives rise to a simplicial object, the canonical resolution, that was alluded to in Vince’s talk. Then, we will introduce comonad homology theories, and if there is time, we will discuss how to construct the full cotangent complex using these “simplicial resolutions”. ",
                 "date": "11/05"
             },
             {
