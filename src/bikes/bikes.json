@@ -16,13 +16,13 @@
             },
             {
                 "name": "Kolton O'Neal",
-                "title": "",
-                "abstract": "",
+                "title": "Miyata's Theorem and Splitting",
+                "abstract": "We know that when a short exact sequence splits, the middle term is isomorphic to the direct sum of the outer terms. But the converse is not true. However, the converse turns out to be true when R is Noetherian, and the modules are finitely generated. We will prove this converse, sometimes called Miyata's theorem. Along the way, we'll talk about pure maps and a couple of ways to define them, and we'll see some corollaries of Miyata's Theorem.",
                 "date": "11/19"
             },
             {
-                "name": "Avery Bainbridge",
-                "title": "Faithfully Flat Descent cont'd, cont'd",
+                "name": "Brendan Murphy",
+                "title": "The Faithfully Flat Finale",
                 "abstract": "",
                 "date": "11/12"
             },
